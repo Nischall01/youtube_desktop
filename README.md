@@ -56,17 +56,17 @@ For downloading age-restricted videos or content that requires login:
 -   [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line media downloader
 -   [path_provider](https://pub.dev/packages/path_provider) - File system access
 
-## 📝 Roadmap
+## Roadmap
 
 -   [ ] Full implementation of Album Maker metadata editor.
 -   [ ] Support for batch downloading playlists.
 -   [ ] Integrated media player.
 -   [ ] Custom download directory selection.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
